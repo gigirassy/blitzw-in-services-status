@@ -38,7 +38,7 @@ status-website:
   cname: status.blitzw.in
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: status.blitzw.in
+  name: Blitzw.in Status
   introTitle: "Blitzw.in status."
   introMessage: "I should get an issue in my email if the site goes down and I'll work on it as soon as I can."
   navbar:
