@@ -18,7 +18,7 @@ sites:
   - name: LibreY [ZA]
     url: https://libre.blitzw.in
   - name: Wikimore [DK]
-    url: https://libre.blitzw.in
+    url: https://wikimore.blitzw.in
   - name: SafeTwitch Frontend [DK]
     url: https://twitch.blitzw.in
   - name: SafeTwitch Backend [DK]
@@ -31,6 +31,10 @@ sites:
     url: https://structables.blitzw.in
   - name: Piped [ZA]
     url: https://piped.blitzw.in
+  - name: Speedtest [DK]
+    url: https://test.blitzw.in
+  - name: ArchiveBox [DK]
+    url: https://ab.blitzw.in
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
