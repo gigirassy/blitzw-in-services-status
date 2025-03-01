@@ -29,8 +29,6 @@ sites:
     url: https://tent.blitzw.in
   - name: Structables [ZA]
     url: https://structables.blitzw.in
-  - name: Piped [ZA]
-    url: https://piped.blitzw.in
   - name: Speedtest [DK]
     url: https://test.blitzw.in
   - name: ArchiveBox [DK]
