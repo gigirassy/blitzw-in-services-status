@@ -4,19 +4,19 @@
     "url": "https://search.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/search.blitzw.in.ico",
     "slug": "sear-xng-dk",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "94.81%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 591,
-    "timeDay": 510,
-    "timeWeek": 656,
-    "timeMonth": 591,
-    "timeYear": 591,
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "94.77%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
+    "time": 586,
+    "timeDay": 512,
+    "timeWeek": 642,
+    "timeMonth": 586,
+    "timeYear": 586,
     "dailyMinutesDown": {
-      "2025-03-02": 75
+      "2025-03-02": 76
     }
   },
   {
