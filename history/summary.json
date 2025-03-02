@@ -4,19 +4,19 @@
     "url": "https://fan.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/fan.blitzw.in.ico",
     "slug": "breezewiki-dk",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "94.84%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.45%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "94.48%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
     "time": 540,
     "timeDay": 503,
     "timeWeek": 561,
     "timeMonth": 540,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2025-03-02": 74
+      "2025-03-02": 79
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://pdf.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/pdf.blitzw.in.ico",
     "slug": "stirling-pdf-dk",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "96.70%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "96.38%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
     "time": 904,
     "timeDay": 834,
     "timeWeek": 934,
     "timeMonth": 904,
     "timeYear": 904,
     "dailyMinutesDown": {
-      "2025-03-02": 47
+      "2025-03-02": 52
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://bin.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/bin.blitzw.in.ico",
     "slug": "privatebin-bintz-wing-dk",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 647,
     "timeDay": 621,
     "timeWeek": 680,
     "timeMonth": 647,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2025-03-02": 47
+      "2025-03-02": 51
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://moz.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/moz.blitzw.in.ico",
     "slug": "mozhi-dk",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "96.77%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 736,
     "timeDay": 707,
     "timeWeek": 773,
     "timeMonth": 736,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2025-03-02": 47
+      "2025-03-02": 51
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "https://wikimore.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/wikimore.blitzw.in.ico",
     "slug": "wikimore-dk",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 621,
     "timeDay": 640,
     "timeWeek": 727,
     "timeMonth": 621,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2025-03-02": 26
+      "2025-03-02": 29
     }
   },
   {
@@ -140,55 +140,59 @@
     "url": "https://twitch.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/twitch.blitzw.in.ico",
     "slug": "safe-twitch-frontend-dk",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 455,
     "timeDay": 436,
     "timeWeek": 487,
     "timeMonth": 455,
     "timeYear": 455,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-02": 3
+    }
   },
   {
     "name": "SafeTwitch Backend [DK]",
     "url": "https://twitchbackend.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/twitchbackend.blitzw.in.ico",
     "slug": "safe-twitch-backend-dk",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 486,
     "timeDay": 459,
     "timeWeek": 516,
     "timeMonth": 486,
     "timeYear": 486,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-02": 2
+    }
   },
   {
     "name": "Quetre [DK]",
     "url": "https://q.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/q.blitzw.in.ico",
     "slug": "quetre-dk",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 522,
     "timeDay": 413,
     "timeWeek": 568,
     "timeMonth": 522,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2025-03-02": 5
+      "2025-03-02": 2
     }
   },
   {
@@ -234,19 +238,19 @@
     "url": "https://test.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/test.blitzw.in.ico",
     "slug": "speedtest-dk",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 686,
     "timeDay": 768,
     "timeWeek": 713,
     "timeMonth": 686,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2025-03-02": 4
+      "2025-03-02": 1
     }
   },
   {
@@ -254,19 +258,19 @@
     "url": "https://ab.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/ab.blitzw.in.ico",
     "slug": "archive-box-dk",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1632,
     "timeDay": 1572,
     "timeWeek": 1661,
     "timeMonth": 1632,
     "timeYear": 1632,
     "dailyMinutesDown": {
-      "2025-03-02": 4
+      "2025-03-02": 0
     }
   }
 ]
