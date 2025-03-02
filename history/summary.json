@@ -4,54 +4,60 @@
     "url": "https://search.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/search.blitzw.in.ico",
     "slug": "sear-xng-dk",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 593,
     "timeDay": 485,
     "timeWeek": 668,
     "timeMonth": 593,
     "timeYear": 593,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-02": 3
+    }
   },
   {
     "name": "Breezewiki [DK]",
     "url": "https://fan.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/fan.blitzw.in.ico",
     "slug": "breezewiki-dk",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 531,
     "timeDay": 373,
     "timeWeek": 557,
     "timeMonth": 531,
     "timeYear": 531,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-02": 2
+    }
   },
   {
     "name": "Stirling PDF [DK]",
     "url": "https://pdf.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/pdf.blitzw.in.ico",
     "slug": "stirling-pdf-dk",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 922,
     "timeDay": 820,
     "timeWeek": 981,
     "timeMonth": 922,
     "timeYear": 922,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-02": 2
+    }
   },
   {
     "name": "IT Tools [VERCEL]",
@@ -76,36 +82,40 @@
     "url": "https://bin.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/bin.blitzw.in.ico",
     "slug": "privatebin-bintz-wing-dk",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 641,
     "timeDay": 546,
     "timeWeek": 683,
     "timeMonth": 641,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-02": 1
+    }
   },
   {
     "name": "Mozhi [DK]",
     "url": "https://moz.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/moz.blitzw.in.ico",
     "slug": "mozhi-dk",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 733,
     "timeDay": 640,
     "timeWeek": 781,
     "timeMonth": 733,
     "timeYear": 733,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-02": 1
+    }
   },
   {
     "name": "LibreY [ZA]",
