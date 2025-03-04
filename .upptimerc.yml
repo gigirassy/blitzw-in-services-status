@@ -5,6 +5,8 @@ repo: blitzw-in-services-status # The name of this repository
 sites:
   - name: Breezewiki [DK]
     url: https://fan.blitzw.in
+  - name: Send [DK]
+    url: https://send.blitzw.in
   - name: Stirling PDF [DK]
     url: https://pdf.blitzw.in
   - name: IT Tools [VERCEL]
@@ -27,6 +29,8 @@ sites:
     url: https://tent.blitzw.in
   - name: Structables [ZA]
     url: https://structables.blitzw.in
+  - name: Intellectual [DK]
+    url: https://genius.blitzw.in
   - name: Speedtest [DK]
     url: https://test.blitzw.in
   - name: ArchiveBox [DK]
