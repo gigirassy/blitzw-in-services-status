@@ -4,18 +4,19 @@
     "url": "https://fan.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/fan.blitzw.in.ico",
     "slug": "breezewiki-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1066,
     "timeDay": 671,
-    "timeWeek": 686,
+    "timeWeek": 700,
     "timeMonth": 768,
     "timeYear": 1066,
     "dailyMinutesDown": {
+      "2025-06-26": 0,
       "2025-03-25": 41,
       "2025-03-02": 90
     }
@@ -26,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.blitzw.in.ico",
     "slug": "send-dk",
     "status": "down",
-    "uptime": "31.25%",
+    "uptime": "31.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.25%",
+    "uptimeYear": "31.04%",
     "time": 542,
     "timeDay": 461,
     "timeWeek": 470,
     "timeMonth": 538,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2025-06-26": 111,
+      "2025-06-26": 1217,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -125,18 +126,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pdf.blitzw.in.ico",
     "slug": "stirling-pdf-dk",
     "status": "down",
-    "uptime": "37.36%",
+    "uptime": "37.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.36%",
+    "uptimeYear": "37.13%",
     "time": 683,
     "timeDay": 465,
     "timeWeek": 450,
     "timeMonth": 478,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2025-06-26": 111,
+      "2025-06-26": 1217,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -242,9 +243,9 @@
     "url": "https://bin.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/bin.blitzw.in.ico",
     "slug": "privatebin-bintz-wing-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -254,6 +255,7 @@
     "timeMonth": 620,
     "timeYear": 638,
     "dailyMinutesDown": {
+      "2025-06-26": 0,
       "2025-03-02": 47
     }
   },
@@ -262,9 +264,9 @@
     "url": "https://moz.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/moz.blitzw.in.ico",
     "slug": "mozhi-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -274,6 +276,7 @@
     "timeMonth": 678,
     "timeYear": 726,
     "dailyMinutesDown": {
+      "2025-06-26": 0,
       "2025-03-02": 47
     }
   },
@@ -283,18 +286,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/libre.blitzw.in.ico",
     "slug": "libre-y-za",
     "status": "down",
-    "uptime": "68.62%",
-    "uptimeDay": "0.89%",
+    "uptime": "68.20%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.13%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.62%",
+    "uptimeYear": "68.20%",
     "time": 2287,
-    "timeDay": 952,
+    "timeDay": 1262,
     "timeWeek": 1464,
     "timeMonth": 1778,
     "timeYear": 2287,
     "dailyMinutesDown": {
-      "2025-06-26": 111,
+      "2025-06-26": 1217,
       "2025-06-25": 1427,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -344,9 +347,9 @@
     "url": "https://wikimore.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/wikimore.blitzw.in.ico",
     "slug": "wikimore-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -356,6 +359,7 @@
     "timeMonth": 627,
     "timeYear": 641,
     "dailyMinutesDown": {
+      "2025-06-26": 0,
       "2025-03-02": 26
     }
   },
@@ -364,9 +368,9 @@
     "url": "https://twitch.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/twitch.blitzw.in.ico",
     "slug": "safe-twitch-frontend-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -375,16 +379,18 @@
     "timeWeek": 429,
     "timeMonth": 452,
     "timeYear": 460,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-26": 0
+    }
   },
   {
     "name": "SafeTwitch Backend [DK]",
     "url": "https://twitchbackend.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/twitchbackend.blitzw.in.ico",
     "slug": "safe-twitch-backend-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -393,16 +399,18 @@
     "timeWeek": 453,
     "timeMonth": 455,
     "timeYear": 458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-26": 0
+    }
   },
   {
     "name": "Quetre [DK]",
     "url": "https://q.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/q.blitzw.in.ico",
     "slug": "quetre-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -411,7 +419,9 @@
     "timeWeek": 453,
     "timeMonth": 476,
     "timeYear": 474,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-26": 0
+    }
   },
   {
     "name": "Tent [ZA]",
@@ -442,18 +452,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/structables.blitzw.in.ico",
     "slug": "structables-za",
     "status": "down",
-    "uptime": "68.48%",
+    "uptime": "68.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.48%",
+    "uptimeYear": "68.07%",
     "time": 3231,
     "timeDay": 813,
     "timeWeek": 788,
     "timeMonth": 795,
     "timeYear": 3231,
     "dailyMinutesDown": {
-      "2025-06-26": 111,
+      "2025-06-26": 1217,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -507,9 +517,9 @@
     "url": "https://genius.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/genius.blitzw.in.ico",
     "slug": "intellectual-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -518,16 +528,18 @@
     "timeWeek": 371,
     "timeMonth": 402,
     "timeYear": 431,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-26": 0
+    }
   },
   {
     "name": "Speedtest [DK]",
     "url": "https://test.blitzw.in",
     "icon": "https://icons.duckduckgo.com/ip3/test.blitzw.in.ico",
     "slug": "speedtest-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -536,7 +548,9 @@
     "timeWeek": 497,
     "timeMonth": 538,
     "timeYear": 567,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-26": 0
+    }
   },
   {
     "name": "ArchiveBox [DK]",
@@ -544,18 +558,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ab.blitzw.in.ico",
     "slug": "archive-box-dk",
     "status": "down",
-    "uptime": "98.46%",
+    "uptime": "97.86%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.46%",
-    "uptimeMonth": "93.66%",
-    "uptimeYear": "98.46%",
+    "uptimeWeek": "61.49%",
+    "uptimeMonth": "91.14%",
+    "uptimeYear": "97.86%",
     "time": 1563,
     "timeDay": 314,
     "timeWeek": 1122,
     "timeMonth": 1672,
     "timeYear": 1563,
     "dailyMinutesDown": {
-      "2025-06-26": 111,
+      "2025-06-26": 1217,
       "2025-06-25": 1440,
       "2025-06-24": 1225
     }
